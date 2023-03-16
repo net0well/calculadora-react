@@ -27,7 +27,7 @@ Foi um desafio muito divertido e educativo. Eu aprendi como usar componentes fun
 Clone o projeto
 
 ```bash
-  git clone https://github.com/eduardoqsilva/Calculadora-react
+  git clone https://github.com/net0well/calculadora-react/
 ```
 
 Entre no diretório do projeto
