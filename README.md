@@ -67,6 +67,4 @@ Para acessar o deploy desse projeto:
 
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 
-## Autor
 
-- [@eduardoqsilva](https://www.github.com/eduardoqsilva)
